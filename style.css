@@ -1,0 +1,89 @@
+.smaller-width {
+  width: 50%;
+}
+li {
+  margin: 20px;
+  font-size: large;
+}
+.green {
+  background-color: green;
+  border-radius: 20px;
+  width: 100px;
+  height: 40px;
+}
+.white {
+  color: white;
+  padding-left: 10px;
+  padding-bottom: 20px;
+}
+.red {
+  color: red;
+}
+.green-span {
+  color: green;
+}
+h1 {
+  font-weight: 800;
+  font-size: 50px;
+}
+.image-width img {
+  width: 100%;
+}
+.mid img {
+  width: 50%;
+  padding-left: 40px;
+}
+.mid {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+  padding: 10px 20px;
+  border-radius: 10px;
+  height: 200px;
+  margin-top: 80px;
+}
+.top-margin {
+  margin-top: 20px;
+}
+.img-width img {
+  width: 55%;
+}
+.center-alignment {
+  text-align: center;
+  margin-top: 50px;
+}
+.card img {
+  width: 90%;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px lightgray;
+  margin: 20px;
+}
+.testimonial img {
+  width: 10%;
+}
+.end-part {
+  width: 100%;
+  height: 400px;
+  background: black;
+  color: white;
+  margin-top: 100px;
+}
+.padding-left-right {
+  padding-left: 30px;
+  padding-top: 30px;
+}
+.black {
+  color: greenyellow;
+  font-weight: 2800;
+  font-size: xx-large;
+}
+.blackish {
+  color: orange;
+  font-weight: 2800;
+  font-size: xx-large;
+}
